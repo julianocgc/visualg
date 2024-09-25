@@ -1,0 +1,8 @@
+VISUALG
+
+! + ctrl + espaço = estrutura de código básico
+escreva = comando de saida de dados
+escreval = comando de saida de dados pulando linha
+leia = comando de entrada de dados
+<- atribuição
+
